@@ -2,3 +2,4 @@ GHAISAN resolusi
 -belajar frondEnd
 -belajar backEnd
 -membuat project
+-mengiklankan project
